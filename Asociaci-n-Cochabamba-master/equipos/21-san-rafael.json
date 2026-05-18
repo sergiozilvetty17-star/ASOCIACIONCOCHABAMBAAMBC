@@ -1,0 +1,43 @@
+{
+  "team": {
+    "id": 21,
+    "name": "San Rafael",
+    "city": "Cochabamba",
+    "logo": "SR",
+    "coach": "Por asignar"
+  },
+  "activeCategories": [
+    "JUVENIL VARONES"
+  ],
+  "categories": {
+    "MOSQUITO": [],
+    "U8 BABY MIXTO": [],
+    "U10 PREMINI DAMAS": [],
+    "U10 PREMINI VARONES": [],
+    "U10 PREMINI MIXTO": [],
+    "U12 DAMAS": [],
+    "U12 VARONES": [],
+    "U12 MIXTO": [],
+    "U13 PASARELA DAMAS": [],
+    "U13 PASARELA VARONES": [],
+    "U15 INFANTIL DAMAS": [],
+    "U15 INFANTIL VARONES": [],
+    "U17 CADETES DAMAS": [],
+    "U17 CADETES VARONES": [],
+    "U19 JUVENIL DAMAS": [],
+    "U19 JUVENIL VARONES": [],
+    "U22 DAMAS": [],
+    "U22 VARONES": [],
+    "U25 DAMAS": [],
+    "U25 VARONES": [],
+    "4TA DE ASCENSO VARONES": [],
+    "3RA DE ASCENSO DAMAS": [],
+    "3RA DE ASCENSO VARONES": [],
+    "2DA DE ASCENSO DAMAS": [],
+    "2DA DE ASCENSO VARONES": [],
+    "1RA DE ASCENSO DAMAS": [],
+    "1RA DE ASCENSO VARONES": [],
+    "HONOR DAMAS": [],
+    "HONOR VARONES": []
+  }
+}
